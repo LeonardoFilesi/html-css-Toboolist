@@ -7,16 +7,47 @@
 
 .container {
     background-color: white;
+    height: 100px;
+    
 }
 
 #header-logo {
     background-color: white;
     padding: 5px 5px;
+    vertical-align: middle;
+    margin-left: 10px;
 }
 
 .header-title {
-                display: inline;block-size;
+                display: inline;
                 background-color: white;
                 vertical-align: middle;
+                line-height: 100px;
 
+}
+
+.container2 {
+    background-color: white;
+    height: 400px;
+    width: 600px;   
+    margin: 20px;
+    border-radius: 10%;
+    
+}
+
+.action-menu {
+    background-color: white;
+    margin-top: 18px;
+}
+
+.button1 {
+    color: white;
+    background-color: rgb(24, 182, 255);
+    border-radius: 10%;
+    margin: 5px;
+
+}
+
+.hr {
+    color: rgb(214, 208, 208);
 }
