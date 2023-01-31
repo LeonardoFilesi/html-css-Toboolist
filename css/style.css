@@ -9,8 +9,14 @@
     background-color: white;
 }
 
-header {}
+#header-logo {
+    background-color: white;
+    padding: 5px 5px;
+}
 
-.title {
+.header-title {
+                display: inline;block-size;
+                background-color: white;
+                vertical-align: middle;
 
 }
