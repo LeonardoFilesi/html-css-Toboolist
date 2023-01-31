@@ -26,18 +26,13 @@
 
 }
 
-.container2 {
-    background-color: white;
-    height: 400px;
-    width: 600px;   
-    margin: 20px;
-    border-radius: 10%;
-    
-}
-
 .action-menu {
     background-color: white;
     margin-top: 18px;
+    width: 80%px;
+    height: 40px;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
 }
 
 .button1 {
@@ -50,4 +45,13 @@
 
 .hr {
     color: rgb(214, 208, 208);
+}
+
+.options-menu {
+    background-color: white;
+    margin-top: 0px;
+    width: 80%;
+    height: 350px;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
 }
