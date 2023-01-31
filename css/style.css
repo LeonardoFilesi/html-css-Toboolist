@@ -96,12 +96,47 @@
     border-radius: 5px;
 }
 
-.q1goals {}
+.q1goals {
+    background-color: white;
+    display: inline;
+    color: white;
+    background-color: rgb(144, 82, 185);
+    padding: 3px;
+    border-radius: 5px;
+}
 
-.recruiting {}
+.recruiting {
+    background-color: white;
+    display: inline;
+    color: white;
+    background-color: rgb(82, 185, 151);
+    padding: 3px;
+    border-radius: 5px;
+}
 
-.mobile {}
+.mobile {
+    background-color: white;
+    display: inline;
+    color: white;
+    background-color: rgb(216, 126, 73);
+    padding: 3px;
+    border-radius: 5px;
+}
 
-.website {}
+.website {
+    background-color: white;
+    display: inline;
+    color: white;
+    background-color: rgb(204, 89, 123);
+    padding: 3px;
+    border-radius: 5px;
+}
 
-.sales {}
+.sales {
+    background-color: white;
+    display: inline;
+    color: white;
+    background-color: rgb(156, 177, 83);
+    padding: 3px;
+    border-radius: 5px;
+}
