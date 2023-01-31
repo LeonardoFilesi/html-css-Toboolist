@@ -73,7 +73,35 @@
     border-bottom-right-radius: 10px;
 }
 
+.correction {
+    background-color: white;
+}
+
 .list-title {
     background-color: white;
+    color: grey;
     margin: 5px 20px;
 }
+
+.item {
+    background-color: white;
+}
+
+.editorial {
+    background-color: white;
+    display: inline;
+    color: white;
+    background-color: rgb(89, 175, 255);
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.q1goals {}
+
+.recruiting {}
+
+.mobile {}
+
+.website {}
+
+.sales {}
