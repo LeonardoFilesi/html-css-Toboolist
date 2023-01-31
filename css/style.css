@@ -5,6 +5,11 @@
     background-color: rgb(214, 208, 208);
 }
 
+@font-face {
+    font-family: roboto;
+    src: url();
+}
+
 .container {
     background-color: white;
     height: 100px;
@@ -66,4 +71,9 @@
     height: 300px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+}
+
+.list-title {
+    background-color: white;
+    margin: 5px 20px;
 }
