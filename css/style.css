@@ -75,21 +75,39 @@
 
 .correction {
     background-color: white;
+    margin-left: 20px;
 }
 
 .list-title {
     background-color: white;
     color: grey;
     margin: 5px 20px;
+    list-style: none;
+}
+
+.list {
+    background-color: white;
+    color: grey;
+    margin: 5px 20px;
+    display: block;
 }
 
 .item {
     background-color: white;
+    display: inline;
+}
+
+.check {
+    color: rgb(52, 190, 86);
+}
+
+.uncheck {
+    color: rgb(196, 43, 43);
 }
 
 .editorial {
     background-color: white;
-    display: inline;
+    display: inline-block;
     color: white;
     background-color: rgb(89, 175, 255);
     padding: 3px;
